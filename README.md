@@ -3,7 +3,7 @@ Designing an agent to navigate the Wumpus World environment that is mentioned in
 Three implemention methods are used
   1. Naive Aproach - Agent chooses action randomly (not wise)
   2. Probabilistic Approach - Agent chooses action based on Probabilistic reasoning
-  3. Deep Q Learning Approach - uses epsilon greedy approach to choose an action
+  3. Deep Q Learning Approach - Agent uses epsilon greedy approach to choose an action while training
  
 ## Environment
   * Performance measure - 
